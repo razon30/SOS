@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="label">false</item>
+    <item type="id" name="headerContent">false</item>
+    <item type="id" name="textView_header">false</item>
+    <item type="id" name="textView_header2">false</item>
+    <item type="id" name="scrollerforcreate">false</item>
+    <item type="id" name="textView_title">false</item>
+    <item type="id" name="textView_catp">false</item>
+    <item type="id" name="editText_cat">false</item>
+    <item type="id" name="textView_telp">false</item>
+    <item type="id" name="editText_tel">false</item>
+    <item type="id" name="addscreen_buttonwrapper">false</item>
+    <item type="id" name="button_add">false</item>
+    <item type="id" name="button_cancel">false</item>
+    <item type="id" name="scrollernumbers">false</item>
+    <item type="id" name="numberdetailslayout">false</item>
+    <item type="id" name="verticalregionlayout">false</item>
+    <item type="id" name="textView_summary">false</item>
+    <item type="id" name="item_create">false</item>
+    <item type="id" name="item_delete">false</item>
+    <item type="id" name="item_setdefault">false</item>
+    <item type="id" name="item_cleardefault">false</item>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_create"
+        android:icon="@drawable/icon_add"
+        android:title="Add Number"
+        android:titleCondensed="Add" />
+    <item
+        android:id="@+id/item_delete"
+        android:icon="@drawable/icon_delete"
+        android:title="Delete Number"
+        android:titleCondensed="Delete" />
+    <item
+        android:id="@+id/item_setdefault"
+        android:icon="@drawable/icon_set"
+        android:title="Set as Default"
+        android:titleCondensed="Set Default" />
+    <item
+        android:id="@+id/item_cleardefault"
+        android:icon="@drawable/icon_reset"
+        android:title="Clear as Default"
+        android:titleCondensed="Clear Default" />
+</menu>

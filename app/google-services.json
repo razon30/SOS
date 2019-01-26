@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338351913396",
+    "firebase_url": "https://ambigious-fc30b.firebaseio.com",
+    "project_id": "ambigious-fc30b",
+    "storage_bucket": "ambigious-fc30b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338351913396:android:50524e53cd71fd0e",
+        "android_client_info": {
+          "package_name": "saddam.razon.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338351913396-k0elou92h7kg28db55h28hgcaot2rf6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPoerYZOr0VBQ-uN7gtoWfI4jWL-JgGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

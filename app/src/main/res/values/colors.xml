@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header_textcolor">#ffffff</color>
+    <color name="header_textcolor2">#dddddd</color>
+    <color name="region_textcolor1">#000000</color>
+    <color name="region_textcolor2">#777777</color>
+
+
+    <color name="colorPrimary" >#f26d6d</color>
+    <color name="colorPrimaryDark">#a91414</color>
+    <color name="colorAccent" >#ae5d5c</color>
+    <color name="background">#F8F8F8</color>
+
+    <color name="backgroundColor">#d9a33e3e</color>
+</resources>

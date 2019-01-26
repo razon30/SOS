@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/headerContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <saddam.razon.sos.utils.MyTextView
+            android:id="@+id/textView_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Small Text"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/header_textcolor" />
+
+        <saddam.razon.sos.utils.MyTextView
+            android:id="@+id/textView_header2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Header"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textColor="@color/header_textcolor2" />
+
+
+    </LinearLayout>
+</LinearLayout>
